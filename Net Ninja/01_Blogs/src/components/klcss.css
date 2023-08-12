@@ -1,0 +1,47 @@
+#KLayout{
+  /* display: flex; */
+  position: relative;
+  height: 300px;
+  width: 500px;
+  /* background-color: aqua !important; */
+}
+
+#line{
+  border-left: 1px dashed black;
+  height: 116px;
+  position: relative;
+  left: 10px;
+  /* position: absolute; */
+  /* top: 50px; */
+  /* display: inline-block; */
+}
+
+#mainHead{
+  position: relative;
+  /* display: inline-block; */
+  top: 7%;
+  margin-left: 30px
+}
+
+.sideHorizonDiv {
+  display: flex;
+}
+
+#sideHorizonDiv1{
+  position: absolute;
+  top: 90px;
+}
+#sideHorizonDiv2{
+  position: absolute;
+  top: 120px;
+}
+#sideHorizonDiv3{
+  position: absolute;
+  top: 155px;
+}
+.sideHorizon{
+  /* position: absolute; */
+  border-top: 1px dashed black;
+  width: 50px;
+  /* top: 150px; */
+}
