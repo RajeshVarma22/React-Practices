@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+.card {
+  background-color: rgb(25, 79, 79);
+  padding: 7px;
+  margin: 15px;
+  text-align: center;
+  box-shadow: 0px 4px 4px black;
+  border-radius: 10px;
+  width: 400px;
+  color: aliceblue;
+}
+
+.navbar {
+background-color: blueviolet;
+padding: 5px;
+color: aliceblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

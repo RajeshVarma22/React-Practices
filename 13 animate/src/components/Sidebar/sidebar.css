@@ -1,0 +1,12 @@
+  section{
+    padding: 0px 40px;
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+  }
+
+  div section:first-child{
+    background-color: aqua;
+    border: 2px soli aqua;
+  }
